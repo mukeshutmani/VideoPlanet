@@ -1,0 +1,15 @@
+{
+  "name": "videoplanet",
+  "version": "1.0.0",
+  "description": "This is Your Video planet that hold by me as a developer!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Mukesh Utmani",
+  "license": "ISC"
+}
